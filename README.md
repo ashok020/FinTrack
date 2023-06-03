@@ -16,6 +16,7 @@ FinTrack is web-based personal finance tracking Tool developed for participating
 
 - Manage Daily Income and expense
 - Visualize Balance, Income , Expense Transactions in All time and Monthly Format.
+- Data will be save in localStorage
 
 # ScreenShots
 
