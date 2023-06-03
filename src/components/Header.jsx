@@ -1,4 +1,3 @@
-import cssVar from "./css-var";
 import { useContext } from "react";
 import { PageContext } from "./App";
 import { HiHome, HiArrowDownLeft, HiArrowUpRight } from "react-icons/hi2";
